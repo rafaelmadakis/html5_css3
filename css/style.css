@@ -23,6 +23,15 @@ p {
     font-size: 18px;
 }
 
-img {
-    margin-bottom: 20px;
+footer {
+    margin-bottom: 30px;
+}
+
+.img_padrao {
+    margin-bottom:30px;
+    width: 300px;
+}
+
+.img_logo {
+    width: 30px;
 }
